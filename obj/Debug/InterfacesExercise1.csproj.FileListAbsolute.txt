@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\bin\Debug\InterfacesExercise1.exe.config
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\bin\Debug\InterfacesExercise1.exe
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\bin\Debug\InterfacesExercise1.pdb
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\obj\Debug\InterfacesExercise1.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\obj\Debug\InterfacesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\obj\Debug\InterfacesExercise1.exe
+C:\Users\Ákos\source\repos\InterfacesExercise1\InterfacesExercise1\obj\Debug\InterfacesExercise1.pdb
